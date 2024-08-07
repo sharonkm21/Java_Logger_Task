@@ -5,7 +5,7 @@ public class TaskOne_Hometask_Variables
 {
     private static final Logger logger = LogManager.getLogger(TaskOne_Hometask_Variables.class);
 
-    public static void main(String[] args) {
+   public static void main(String[] args) {
         //Task 1 //Adding apples using variables
         System.out.println("\nTask 1");
         addApples();
