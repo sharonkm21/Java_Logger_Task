@@ -1,0 +1,79 @@
+2024-08-07 12:35:28 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - Home Task 6 Loops and Arrays
+2024-08-07 12:35:28 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+Task 6.1
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In largestSpanOfArray method
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - Exiting largestSpanOfArray method
+2024-08-07 12:35:28 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+End of Task 6.1
+2024-08-07 12:35:28 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+Task 6.2
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In canSplitSumEqually method
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In canSplitSumEqually method
+2024-08-07 12:35:28 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+End of Task 6.2
+2024-08-07 12:35:28 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+Task 6.3
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In countClumps method
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - Exiting countClumps method
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In countClumps method
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - Exiting countClumps method
+2024-08-07 12:35:28 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+End of Task 6.3
+2024-08-07 12:35:28 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+Task 6.4
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In largestMirror method
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - Exiting largestMirror method
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In largestMirror method
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - Exiting largestMirror method
+2024-08-07 12:35:28 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+End of Task 6.4
+2024-08-07 12:35:28 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+Task 6.5
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In linearIn method
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - Exiting linearIn method
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In linearIn method
+2024-08-07 12:35:28 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - Exiting linearIn method
+2024-08-07 12:35:28 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+End of Task 6.5
+2024-08-07 12:35:28 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+End of Home Task 6 Loops and Arrays
+2024-08-07 13:36:14 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - Home Task 6 Loops and Arrays
+2024-08-07 13:36:14 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+Task 6.1
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In largestSpanOfArray method
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - Exiting largestSpanOfArray method
+2024-08-07 13:36:14 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+End of Task 6.1
+2024-08-07 13:36:14 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+Task 6.2
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In canSplitSumEqually method
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In canSplitSumEqually method
+2024-08-07 13:36:14 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - Total Sum is not divisible by 2
+2024-08-07 13:36:14 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+End of Task 6.2
+2024-08-07 13:36:14 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+Task 6.3
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In countClumps method
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - Exiting countClumps method
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In countClumps method
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - Exiting countClumps method
+2024-08-07 13:36:14 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+End of Task 6.3
+2024-08-07 13:36:14 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+Task 6.4
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In largestMirror method
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - Exiting largestMirror method
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In largestMirror method
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - Exiting largestMirror method
+2024-08-07 13:36:14 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+End of Task 6.4
+2024-08-07 13:36:14 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+Task 6.5
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In linearIn method
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - Exiting linearIn method
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - In linearIn method
+2024-08-07 13:36:14 [main] DEBUG org.example.TaskSix_HomeTask_LoopsNArrays - Exiting linearIn method
+2024-08-07 13:36:14 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+End of Task 6.5
+2024-08-07 13:36:14 [main] INFO  org.example.TaskSix_HomeTask_LoopsNArrays - 
+End of Home Task 6 Loops and Arrays
