@@ -1,9 +1,7 @@
 package org.example;
 import org.apache.logging.log4j.LogManager;
-
 import java.util.Map;
 import java.util.HashMap;
-import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class TaskFour_HomeTask_StringsNArrays
