@@ -1,11 +1,17 @@
 package org.example;
+import org.apache.logging.log4j.LogManager;
+
 import java.util.Map;
 import java.util.HashMap;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class TaskFour_HomeTask_StringsNArrays
-{
+{private static final Logger logger = LogManager.getLogger(TaskFour_HomeTask_StringsNArrays.class);
+
     public static void main(String[] args) {
         //Task4.1
+        logger.info("Home Task 4 Strings and Arrays");
         System.out.println("\nTask 4.1"); //Find the missing number in an array of 1-100
         int[] arrayMissing = new int[100];
         for (int i = 1; i <= 100; i++) {
