@@ -1,7 +1,10 @@
 package org.example;
-
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 public class TaskOne_Hometask_Variables
 {
+    private static final Logger logger = LogManager.getLogger(TaskOne_Hometask_Variables.class);
+
     public static void main(String[] args) {
         //Task 1 //Adding apples using variables
         System.out.println("\nTask 1");
