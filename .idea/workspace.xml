@@ -4,29 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb90304b-70e4-464b-85a1-71ac06518b51" name="Changes" comment="Editing file 2 for cherry pick for GIT">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/AppliancesElectricityCost/Apartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/AppliancesElectricityCost/Appliance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/AppliancesElectricityCost/Bulb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/AppliancesElectricityCost/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/AppliancesElectricityCost/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/AppliancesElectricityCost/Television.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/FlowerShop/Bouquet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/FlowerShop/Flowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/FlowerShop/Jasmine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/FlowerShop/Lily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/FlowerShop/Rose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/NewYearGift/Chocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/NewYearGift/Confectionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/NewYearGift/Galaxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/NewYearGift/Gift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/NewYearGift/Jelebi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/NewYearGift/Ladoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/NewYearGift/LindtSwiss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/NewYearGift/Sweet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/PizzaHomeTask/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/PizzaHomeTask/PizzaBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSHomeTasks/PizzaHomeTask/PizzaToppings.java" afterDir="false" />
+    <list default="true" id="bb90304b-70e4-464b-85a1-71ac06518b51" name="Changes" comment="Adding all Tasks for the OOPS HomeTask">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/AllCollectionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/ArrayListHomeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/ComparatorTask/Checker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/ComparatorTask/JavaComparatorHomeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/ComparatorTask/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/MapHomeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/StackHomeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/StudentCollectionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/TreeMapHomeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/PhoneQueries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/StackStringFile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,16 +79,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AllCollectionsDemo.executor": "Run",
     "Application.Apartment.executor": "Run",
+    "Application.ArrayListHomeTask.executor": "Run",
     "Application.Bouquet.executor": "Run",
     "Application.Gift.executor": "Run",
+    "Application.JavaComparatorHomeTask.executor": "Run",
+    "Application.MapHomeTask.executor": "Run",
     "Application.Pizza.executor": "Run",
+    "Application.StackHomeTask.executor": "Run",
+    "Application.StudentCollectionTask.executor": "Run",
     "Application.TaskFive_HomeTask_Constructs.executor": "Run",
     "Application.TaskSix_HomeTask_LoopsNArrays.executor": "Run",
+    "Application.TreeMapHomeTask.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "OOPSHomeTasks",
+    "git-widget-placeholder": "CollectionsHomeTasksBranch",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/sharonk_mathew/IntellIJWS/Java_Logger_Task/src/main/java/org/example",
     "onboarding.tips.debug.path": "C:/Users/sharonk_mathew/IntellIJWS/Java_Logger_Task/src/main/java/org/example/Main.java",
@@ -113,13 +110,13 @@
       <recent name="C:\Users\sharonk_mathew\IntellIJWS\Java_Logger_Task\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Apartment">
-    <configuration name="Apartment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPSHomeTasks.AppliancesElectricityCost.Apartment" />
+  <component name="RunManager" selected="Application.StudentCollectionTask">
+    <configuration name="AllCollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsHomeTasks.CollectionsDemo.AllCollectionsDemo" />
       <module name="Java_Logger_Task" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPSHomeTasks.AppliancesElectricityCost.*" />
+          <option name="PATTERN" value="CollectionsHomeTasks.CollectionsDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bouquet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPSHomeTasks.FlowerShop.Bouquet" />
+    <configuration name="MapHomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsHomeTasks.CollectionsDemo.MapHomeTask" />
       <module name="Java_Logger_Task" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPSHomeTasks.FlowerShop.*" />
+          <option name="PATTERN" value="CollectionsHomeTasks.CollectionsDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPSHomeTasks.NewYearGift.Gift" />
+    <configuration name="StackHomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsHomeTasks.CollectionsDemo.StackHomeTask" />
       <module name="Java_Logger_Task" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPSHomeTasks.NewYearGift.*" />
+          <option name="PATTERN" value="CollectionsHomeTasks.CollectionsDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPSHomeTasks.PizzaHomeTask.Pizza" />
+    <configuration name="StudentCollectionTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsHomeTasks.CollectionsDemo.StudentCollectionTask" />
       <module name="Java_Logger_Task" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPSHomeTasks.PizzaHomeTask.*" />
+          <option name="PATTERN" value="CollectionsHomeTasks.CollectionsDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskSix_HomeTask_LoopsNArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TaskSix_HomeTask_LoopsNArrays" />
+    <configuration name="TreeMapHomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsHomeTasks.CollectionsDemo.TreeMapHomeTask" />
       <module name="Java_Logger_Task" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="CollectionsHomeTasks.CollectionsDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Apartment" />
-        <item itemvalue="Application.Gift" />
-        <item itemvalue="Application.Pizza" />
-        <item itemvalue="Application.Bouquet" />
-        <item itemvalue="Application.TaskSix_HomeTask_LoopsNArrays" />
+        <item itemvalue="Application.StudentCollectionTask" />
+        <item itemvalue="Application.AllCollectionsDemo" />
+        <item itemvalue="Application.TreeMapHomeTask" />
+        <item itemvalue="Application.StackHomeTask" />
+        <item itemvalue="Application.MapHomeTask" />
       </list>
     </recent_temporary>
   </component>
