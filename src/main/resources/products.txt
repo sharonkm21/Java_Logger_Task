@@ -1,0 +1,10 @@
+Product{name='Laptop', price=1500.0, category='Electronics', grade='Standard'}
+Product{name='Book', price=15.0, category='Books', grade='Standard'}
+Product{name='Headphones', price=120.0, category='Electronics', grade='Standard'}
+Product{name='Smartphone', price=2000.0, category='Electronics', grade='Standard'}
+Product{name='Luxury Watch', price=3500.0, category='Accessories', grade='Standard'}
+Product{name='Laptop', price=1500.0, category='Electronics', grade='Standard'}
+Product{name='Book', price=15.0, category='Books', grade='Standard'}
+Product{name='Headphones', price=120.0, category='Electronics', grade='Standard'}
+Product{name='Smartphone', price=2000.0, category='Electronics', grade='Standard'}
+Product{name='Luxury Watch', price=3500.0, category='Accessories', grade='Standard'}
