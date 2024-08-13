@@ -4,19 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb90304b-70e4-464b-85a1-71ac06518b51" name="Changes" comment="Adding all Tasks for the OOPS HomeTask">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/AllCollectionsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/ArrayListHomeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/ComparatorTask/Checker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/ComparatorTask/JavaComparatorHomeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/ComparatorTask/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/MapHomeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/StackHomeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/StudentCollectionTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsHomeTasks/CollectionsDemo/TreeMapHomeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/PhoneQueries.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/StackStringFile.txt" afterDir="false" />
+    <list default="true" id="bb90304b-70e4-464b-85a1-71ac06518b51" name="Changes" comment="Adding all Tasks for the Collections HomeTask">
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/CollectionsReverseSortEmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/InterfaceAndStreams/HomeTaskFive_BiFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/InterfaceAndStreams/HomeTaskFour_Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/InterfaceAndStreams/HomeTaskFour_Supplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/InterfaceAndStreams/HomeTaskSeven_Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/InterfaceAndStreams/HomeTaskSix_Construct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/InterfaceAndStreams/HomeTaskThree_FunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/InterfaceAndStreams/HomeTaskTwo_Predicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/InterfaceAndStreams/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/InterfaceAndStreams/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/PrintNumberRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/SecondLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/SortEmployeeName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/SortNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/StringRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/TreeMapEmpReverseSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/TreeSetEmpSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/TreeSetReverseSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA8_Homestasks/TreeSetSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/products.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,19 +93,36 @@
     "Application.Apartment.executor": "Run",
     "Application.ArrayListHomeTask.executor": "Run",
     "Application.Bouquet.executor": "Run",
+    "Application.CollectionsReverseSortEmp.executor": "Run",
     "Application.Gift.executor": "Run",
+    "Application.HomeTaskFive_BiFunction.executor": "Run",
+    "Application.HomeTaskFour_Consumer.executor": "Run",
+    "Application.HomeTaskFour_Supplier.executor": "Run",
+    "Application.HomeTaskSeven_Streams.executor": "Run",
+    "Application.HomeTaskSix_Construct.executor": "Run",
+    "Application.HomeTaskThree_FunctionalInterface.executor": "Run",
+    "Application.HomeTaskTwo_Predicates.executor": "Run",
     "Application.JavaComparatorHomeTask.executor": "Run",
     "Application.MapHomeTask.executor": "Run",
+    "Application.Palindrome.executor": "Run",
     "Application.Pizza.executor": "Run",
+    "Application.SecondLargestNumber.executor": "Run",
+    "Application.SortEmployeeName.executor": "Run",
+    "Application.SortNumbers (1).executor": "Run",
+    "Application.SortNumbers.executor": "Run",
     "Application.StackHomeTask.executor": "Run",
     "Application.StudentCollectionTask.executor": "Run",
     "Application.TaskFive_HomeTask_Constructs.executor": "Run",
     "Application.TaskSix_HomeTask_LoopsNArrays.executor": "Run",
+    "Application.TreeMapEmpReverseSort.executor": "Run",
     "Application.TreeMapHomeTask.executor": "Run",
+    "Application.TreeSetEmpSort.executor": "Run",
+    "Application.TreeSetReverseSort.executor": "Run",
+    "Application.TreeSetSort.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "CollectionsHomeTasksBranch",
+    "git-widget-placeholder": "JAVA8Homestasks",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/sharonk_mathew/IntellIJWS/Java_Logger_Task/src/main/java/org/example",
     "onboarding.tips.debug.path": "C:/Users/sharonk_mathew/IntellIJWS/Java_Logger_Task/src/main/java/org/example/Main.java",
@@ -110,13 +137,13 @@
       <recent name="C:\Users\sharonk_mathew\IntellIJWS\Java_Logger_Task\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentCollectionTask">
-    <configuration name="AllCollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionsHomeTasks.CollectionsDemo.AllCollectionsDemo" />
+  <component name="RunManager" selected="Application.HomeTaskSeven_Streams">
+    <configuration name="HomeTaskFive_BiFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA8_Homestasks.InterfaceAndStreams.HomeTaskFive_BiFunction" />
       <module name="Java_Logger_Task" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionsHomeTasks.CollectionsDemo.*" />
+          <option name="PATTERN" value="JAVA8_Homestasks.InterfaceAndStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapHomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionsHomeTasks.CollectionsDemo.MapHomeTask" />
+    <configuration name="HomeTaskFour_Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA8_Homestasks.InterfaceAndStreams.HomeTaskFour_Consumer" />
       <module name="Java_Logger_Task" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionsHomeTasks.CollectionsDemo.*" />
+          <option name="PATTERN" value="JAVA8_Homestasks.InterfaceAndStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackHomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionsHomeTasks.CollectionsDemo.StackHomeTask" />
+    <configuration name="HomeTaskFour_Supplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA8_Homestasks.InterfaceAndStreams.HomeTaskFour_Supplier" />
       <module name="Java_Logger_Task" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionsHomeTasks.CollectionsDemo.*" />
+          <option name="PATTERN" value="JAVA8_Homestasks.InterfaceAndStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentCollectionTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionsHomeTasks.CollectionsDemo.StudentCollectionTask" />
+    <configuration name="HomeTaskSeven_Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA8_Homestasks.InterfaceAndStreams.HomeTaskSeven_Streams" />
       <module name="Java_Logger_Task" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionsHomeTasks.CollectionsDemo.*" />
+          <option name="PATTERN" value="JAVA8_Homestasks.InterfaceAndStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeMapHomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionsHomeTasks.CollectionsDemo.TreeMapHomeTask" />
+    <configuration name="HomeTaskSix_Construct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA8_Homestasks.InterfaceAndStreams.HomeTaskSix_Construct" />
       <module name="Java_Logger_Task" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionsHomeTasks.CollectionsDemo.*" />
+          <option name="PATTERN" value="JAVA8_Homestasks.InterfaceAndStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentCollectionTask" />
-        <item itemvalue="Application.AllCollectionsDemo" />
-        <item itemvalue="Application.TreeMapHomeTask" />
-        <item itemvalue="Application.StackHomeTask" />
-        <item itemvalue="Application.MapHomeTask" />
+        <item itemvalue="Application.HomeTaskSeven_Streams" />
+        <item itemvalue="Application.HomeTaskSix_Construct" />
+        <item itemvalue="Application.HomeTaskFive_BiFunction" />
+        <item itemvalue="Application.HomeTaskFour_Supplier" />
+        <item itemvalue="Application.HomeTaskFour_Consumer" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +326,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723032068000</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Adding all Tasks for the Collections HomeTask">
+      <option name="closed" value="true" />
+      <created>1723108318245</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1723108318245</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -324,6 +359,7 @@
     <MESSAGE value="Adding logger package for GIT" />
     <MESSAGE value="Editing for cherry pick for GIT" />
     <MESSAGE value="Editing file 2 for cherry pick for GIT" />
-    <option name="LAST_COMMIT_MESSAGE" value="Editing file 2 for cherry pick for GIT" />
+    <MESSAGE value="Adding all Tasks for the Collections HomeTask" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding all Tasks for the Collections HomeTask" />
   </component>
 </project>
